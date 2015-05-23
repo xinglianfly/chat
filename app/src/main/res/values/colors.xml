@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_translucent">#80000000</color>
+    <color name="colorPrimary">@color/material_deep_teal_500</color>
+    <color name="colorPrimaryDark">@color/material_deep_teal_500</color>
+    <color name="separator">#80323232</color>
+    <color name="textpoint">#808080</color>
+    <color name="white">#ffffffff</color><!-- white -->
+    <color name="transparent">#50ffffff</color>
+    <color name="blue">#ff35b5e5</color>
+
+
+
+
+</resources>
